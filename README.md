@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asude Merve Ekiz</h1>
-<h3 align="center">An undergrad computer science student at Yıldız Technical University</h3>
+<h3 align="center">Computer science student at Yıldız Technical University</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asudeekiz34&label=Profile%20views&color=0e75b6&style=flat" alt="asudeekiz34" /> </p>
